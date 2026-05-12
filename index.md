@@ -25,5 +25,4 @@ epistemology, systems theory, and complex adaptive domains.
 ## Profiles
 
 - [GitHub](https://github.com/fabrizio-de-palma)
-- Zenodo: [ADD LINK](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
-- Google Scholar: [ADD LINK](https://scholar.google.com/citations?user=Avn9OWAAAAAJ&hl=it)
+- Google Scholar: [ADD LINK](https://scholar.google.com/citations?user=Avn9OWAAAAAJ)
