@@ -67,7 +67,7 @@ realization at the boundary of computational distinguishability.
 
 ---
 
-## Frontier Concetp
+## Frontier Concept
 
 ### Frontier Field-Dynamics: Structural Limits of Reasoning under Finite Observational Granularity
 (https://zenodo.org/records/18498021)
