@@ -44,7 +44,7 @@ time, probability, metric structure, or agency as primitives.
 
 ### Finite-Budget Structural Identifiability under Bounded Observation (2026)
 - [Github](https://github.com/fabrizio-de-palma/Finite-Budget-Structural-Identifiability-under-Bounded-Observation)
-- [DOI 10.5281/zenodo.18736348)](https://doi.org/10.5281/zenodo.18736348)
+- [DOI 10.5281/zenodo.18736348](https://doi.org/10.5281/zenodo.18736348)
 - [PDF](Finite-Budget_Observation.pdf)
 
 Studies structural identifiability under finite observational budgets, showing
