@@ -2,6 +2,8 @@
 
 Independent Researcher
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fabrizio-de-palma.github.io)
+
 ## Research Themes
 
 - Finite observational structures
@@ -142,3 +144,6 @@ topological settings.
 ## Contact
 
 [Email](mailto:fabriziodepalma@proton.me)
+
+<script data-goatcounter="https://fabriziodepalma.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
