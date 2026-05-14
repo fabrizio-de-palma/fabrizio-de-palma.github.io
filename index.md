@@ -83,7 +83,7 @@ internal evolution no longer yields observable informational progress.
 
 ### Frontier Field-Dynamics in Action: Structural Impossibility Results under Fixed Observational Granularity (2026)
 - [DOI 10.5281/zenodo.18509375](https://zenodo.org/records/18509375)
-- [PDF](FFD in Action.pdf)
+- [PDF](FFD_in_Action.pdf)
 
 Applies Frontier Field-Dynamics to concrete mathematical and computational
 settings, deriving structural impossibility results related to finite-grain
@@ -95,7 +95,7 @@ stabilization, non-factorization, and failure of canonical selection.
 
 ### Epistemic Residue: Knowledge, Certainty, and the Structuring of What Remains (2026)
 - [DOI 10.5281/zenodo.19098227](https://zenodo.org/records/19098227)
-- [PDF](Epistemic Residue.pdf)
+- [PDF](Epistemic_Residue.pdf)
 
 Develops the concept of epistemic residue as the structured remainder generated
 by finite knowledge, arguing that knowledge does not simply eliminate the
