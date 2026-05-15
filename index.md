@@ -1,5 +1,5 @@
 # Fabrizio De Palma
-<meta name="msvalidate.01" content="2E2AD113535676D2D26D95EADF4936EC" />
+
 Independent Researcher
 ORCID: 0009-0001-3191-4871
 
