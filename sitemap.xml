@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/field-dynamics.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/finite-budget_observation.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/probe_complexity_sharp-sat.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/p_vs_np_finite-grain.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/ffd_in_action.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/frontier_field-dynamics.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/epistemic_residue.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/identity_motivation.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/epistemic_map_games.pdf</loc>
-</url>
-
-<url>
-  <loc>https://fabrizio-de-palma.github.io/sigma-cores.pdf</loc>
-</url>
-
+  <url>
+    <loc>https://fabrizio-de-palma.github.io/</loc>
+  </url>
 </urlset>
