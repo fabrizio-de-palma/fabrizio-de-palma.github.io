@@ -1,6 +1,3 @@
-<span style="color:#3366cc;">
-Structural identifiability
-</span>
 # Fabrizio De Palma
 
 Independent Researcher
