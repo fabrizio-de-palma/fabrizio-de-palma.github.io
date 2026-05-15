@@ -1,6 +1,10 @@
+<span style="color:#3366cc;">
+Structural identifiability
+</span>
 # Fabrizio De Palma
 
 Independent Researcher
+ORCID: 0009-0001-3191-4871
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fabrizio-de-palma.github.io)
 
@@ -137,6 +141,7 @@ topological settings.
 
 - [GitHub](https://github.com/fabrizio-de-palma)
 - [Google Scholar](https://scholar.google.com/citations?user=Avn9OWAAAAAJ)
+- [Orcid](https://orcid.org/0009-0001-3191-4871)
 
 ---
 
