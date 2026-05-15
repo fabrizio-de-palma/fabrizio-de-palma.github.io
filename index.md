@@ -5,6 +5,13 @@ ORCID: 0009-0001-3191-4871
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fabrizio-de-palma.github.io)
 
+## Main Interests
+
+- Complex Systems
+- Computer Science
+- Mathematics
+
+
 ## Research Themes
 
 - Finite observational structures
